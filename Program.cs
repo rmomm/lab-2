@@ -17,7 +17,7 @@ namespace lab2
 
     }
 
-        /*public static void Main()
+        public static void Main()
         {
             try
             {
@@ -37,6 +37,6 @@ namespace lab2
             {
                 Console.Error.WriteLine($"Error: {ex.Message}");
             }
-        }*/
+        }
  }
 
